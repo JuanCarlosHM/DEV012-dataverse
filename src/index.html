@@ -6,6 +6,59 @@
     <link rel="stylesheet" href="style.css" />
   </head>
   <body>
+
+  <header>
+    <h1> Welcome to dataverse! </h1>
+    <h2>  sci-fi books version </h2>
+    <p>
+      Welcome to the ultimate science fiction portal.
+      Discover the most thrilling titles of the genre that will take you
+      to futuristic worlds, unsettling dystopias,
+      and amazing adventures. Get ready to explore the unexplored
+      and immerse yourself in a universe of
+      endless possibilities.
+      <br/>
+      Ready to start your journey into the unknown?
+      <br/>
+      Go ahead!
+    </p>
+
+  </header>
+
+  <main class="container">
+
+    <section class="container  controllers">
+
+      <input aria-label="Search" id="search-box" type="text" placeholder="Book name">
+
+      <label for="category-select"></label>
+      <select name="category-select" id="category-select">
+        <option value="" disabled selected> Select a category </option>
+      </select>
+
+      <label for="order-select"></label>
+      <select name="name" id="order-select">
+        <option value="" disabled selected> Order by name </option>
+        <option value="asc"> A-Z </option>
+        <option value="desc"> Z-A </option>
+      </select>
+
+
+      <button data-testid="button-clear" id="button-clear"> Show all </button>
+    </section>
+
+    <section id="root" class="container">
+
+    </section>
+
+    <section id="stats" class="container">
+      <p> Total results: </p>
+    </section>
+  </main>
+
+  <footer class="container">
+    <p>  created By JC &#169 </p>
+  </footer>
     <script src="main.js" type="module"></script>
   </body>
 </html>

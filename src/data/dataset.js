@@ -1,378 +1,362 @@
 export default [
   {
-    "id": "ada-lovelace",
-    "name": "Ada Lovelace",
-    "shortDescription": "Pionera en la programación, primera programadora de la historia.",
-    "description": "Una visionaria matemática británica del siglo XIX, es aclamada como la primera programadora de la historia. Su colaboración con Charles Babbage en la creación de la Máquina Analítica la llevó a desarrollar algoritmos, incluyendo el famoso \"algoritmo de Bernoulli\", destinados a ser procesados por una máquina. Su visión pionera la convirtió en una figura fundamental en la informática y la inteligencia artificial. Lovelace demostró que las computadoras podían ir más allá de simples cálculos matemáticos, anticipando un mundo donde la programación sería esencial en la resolución de problemas complejos, dejando una huella imborrable en la ciencia y la tecnología.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/ada-lovelace.jpg",
+    "name": "Dune",
+    "author": "Frank Herbert",
+    "year": "1965",
+    "id": "a1b2c3",
+    "shortDescription": "Epic sci-fi on Arrakis",
+    "imageUrl": "https://th.bing.com/th/id/OIG.OSrvVe7jv2MDHFx2Zz1C?pid=ImgGn&w=1024&h=1024&rs=1",
+    "description": "Dune is set on the desert planet Arrakis, the only known source of the spice melange, a drug that grants heightened awareness and longevity. The story unfolds as Paul Atreides, the son of Duke Leto Atreides, becomes embroiled in political intrigue and the native Fremen people's struggle for control of the planet. It's a richly detailed epic of politics, religion, and ecology, often considered one of the greatest science fiction novels ever written. With memorable characters, intricate world-building, and a deeply engaging plot, Dune has left an indelible mark on the genre.",
     "facts": {
-      "yearOfBirth": "1815",
-      "yearOfDeath": "1852",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Ciencia de la Computación"
+      "genre": "Science Fiction",
+      "pages": "412",
+      "awards": "Hugo Award for Best Novel"
     },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/genera-una-imagen-de-ada-lovelace2c-la-primera-prog/650a1eff8ff04b88833d5cdef0309441"
-    }
+    "category": "space"
   },
   {
-    "id": "emmy-noether",
-    "name": "Emmy Noether",
-    "shortDescription": "Matemática destacada, teorema fundamental en álgebra abstracta.",
-    "description": "Una brillante matemática alemana, revolucionó la física teórica con sus contribuciones al teorema de conservación de la energía y el teorema de Noether, fundamentales en la teoría de la relatividad y la mecánica cuántica. A pesar de los obstáculos que enfrentó como mujer en la academia, sus investigaciones en álgebra abstracta y teoría de grupos son fundamentales en la física moderna. Su capacidad para unificar conceptos matemáticos y físicos marcó un hito en la historia de la ciencia, allanando el camino para futuras generaciones de científicas.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/emmy-noether.jpg",
+    "name": "Neuromancer",
+    "author": "William Gibson",
+    "year": "1984",
+    "id": "d4e5f6",
+    "shortDescription": "Cyberpunk classic",
+    "imageUrl": "https://th.bing.com/th/id/OIG.2qIwE7OUrPV1371LzWPc?pid=ImgGn",
+    "description": "Neuromancer is a groundbreaking cyberpunk novel that follows the story of Case, a washed-up computer hacker hired for one last job. The narrative is set in a gritty, dystopian future where technology and humanity are intertwined. Case's journey takes him from the urban sprawl of Chiba City to the virtual world of the Matrix and beyond. The novel introduced the concept of cyberspace and had a profound influence on the science fiction genre, predicting many aspects of our technology-driven world. With its noir atmosphere and mind-bending plot, Neuromancer is a must-read for fans of cutting-edge sci-fi.",
     "facts": {
-      "yearOfBirth": "1882",
-      "yearOfDeath": "1935",
-      "birthPlace": "Erlangen, Alemania",
-      "mainField": "Matemáticas"
+      "genre": "Science Fiction",
+      "pages": "271",
+      "awards": "Nebula Award, Philip K. Dick Award"
     },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-an-image-of-of-a-german-woman2c-a-pioneering/6510ddb1e8254b928b8f8f1d5e95fea4"
-    }
+    "category": "cyberpunk"
   },
   {
-    "id": "hypatia-de-alejandria",
-    "name": "Hypatia de Alejandría",
-    "shortDescription": "Matemática y filósofa en la antigua Alejandría.",
-    "description": "Filósofa y matemática en la antigua Alejandría, desafió las normas de género de su época al destacar en una sociedad dominada por hombres. Su legado incluye importantes contribuciones a la geometría y la astronomía, así como su destacado papel como maestra y defensora del conocimiento en una época de agitación política. Hypatia demostró que las mujeres podían sobresalir en campos intelectuales y su valentía al mantener sus creencias filosóficas la convierte en un símbolo de resistencia y sabiduría en la historia de la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/hypatia-de-alejandria.jpg",
+    "name": "Foundation",
+    "author": "Isaac Asimov",
+    "year": "1951",
+    "id": "g7h8i9",
+    "shortDescription": "Epic saga of the future",
+    "imageUrl": "https://th.bing.com/th/id/OIG.DbX3.zBXTf78uK8wyHq2?pid=ImgGn&w=1024&h=1024&rs=1",
+    "description": "Foundation tells the story of Hari Seldon, a brilliant mathematician who predicts the fall of the Galactic Empire and creates a plan to preserve knowledge and shorten the ensuing dark age. Asimov's work is a grand vision of a future where psychohistory, a mathematical field, is used to predict the future on a galactic scale. The novel explores the themes of the rise and fall of civilizations, the role of knowledge and science, and the power of foresight. With its intricate plotting and timeless ideas, Foundation remains a cornerstone of science fiction literature.",
     "facts": {
-      "yearOfBirth": "circa 360",
-      "yearOfDeath": "415",
-      "birthPlace": "Alejandría, Egipto",
-      "mainField": "Matemáticas, Filosofía"
+      "genre": "Science Fiction",
+      "pages": "255",
+      "awards": "Hugo Award for Best All-Time Series"
     },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/create-a-vivid-digital-artwork-or-painting-that-de/6510df0ebe1a4807af22175452761e1a"
-    }
+    "category": "space"
   },
   {
-    "id": "marjorie-lee-browne",
-    "name": "Marjorie Lee Browne",
-    "shortDescription": "Matemática, contribuyó a la teoría de números.",
-    "description": "Matemática estadounidense, destacó en una época en la que las mujeres afroamericanas enfrentaban múltiples barreras en la educación superior. No solo obtuvo su doctorado en matemáticas, sino que también se convirtió en una destacada educadora, promoviendo la diversidad en las ciencias matemáticas y desafiando la discriminación racial y de género. Su compromiso con la educación y su capacidad para inspirar a futuras generaciones la convierten en un modelo a seguir para las mujeres en la ciencia, dejando una huella perdurable en la historia académica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marjorie-lee-browne.jpg",
+    "name": "1984",
+    "author": "george orwell",
+    "year": "1949",
+    "id": "j0k1l2",
+    "shortDescription": "Dystopian classic",
+    "imageUrl": "https://th.bing.com/th/id/OIG.UiDN1.wj7Pq06GF6JpxW?pid=ImgGn",
+    "description": "1984 is a dystopian classic that presents a bleak vision of a totalitarian society where independent thought is a crime. The story follows Winston Smith, a low-ranking party member who begins to question the regime's control. As he becomes involved in a forbidden love affair and joins a group of rebels, he risks everything to challenge the oppressive regime. George Orwell's novel explores themes of surveillance, propaganda, and the consequences of totalitarianism. Its concepts, like Big Brother and Newspeak, have become iconic. A chilling and thought-provoking work, 1984 remains a warning about the dangers of authoritarianism.",
     "facts": {
-      "yearOfBirth": "1914",
-      "yearOfDeath": "1979",
-      "birthPlace": "Memphis, Estados Unidos",
-      "mainField": "Matemáticas"
+      "genre": "Science Fiction",
+      "pages": "328",
+      "awards": "None"
     },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/design-an-inspiring-and-historically-accurate-imag/6510df7e7bb745f69d67f695441607a8"
-    }
+    "category": "dystopian"
   },
   {
-    "id": "shakuntala-devi",
-    "name": "Shakuntala Devi",
-    "shortDescription": "Matemática prodigio, conocida como la 'Calculadora Humana'.",
-    "description": "Conocida como \"la bruja de las matemáticas\" de la India, dejó una marca indeleble en el mundo de los números. Su capacidad mental asombrosa la llevó a resolver complejos cálculos matemáticos mentalmente en cuestión de segundos, estableciendo récords mundiales. Además de su talento innato, Devi promovió activamente la educación matemática y luchó por la igualdad de género en un país donde las mujeres enfrentaban desafíos en la ciencia y la educación. Su legado destaca el poder de la mente humana y la importancia de la igualdad de oportunidades en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/shakuntala-devi.jpg",
+    "name": "The Martian",
+    "author": "andy weir",
+    "year": "2011",
+    "id": "m3n4o5",
+    "shortDescription": "Survival on Mars",
+    "imageUrl": "https://th.bing.com/th/id/OIG.DHN8.h3_Fnsa8ObFjFO0?pid=ImgGn&w=1024&h=1024&rs=1",
+    "description": "The Martian is a thrilling tale of survival on the Red Planet. Astronaut Mark Watney is stranded on Mars, and he must use his ingenuity to survive until rescue is possible. Weir's novel is a masterclass in problem-solving, as Watney faces one life-threatening challenge after another. With a touch of humor and a lot of science, the story explores the power of human determination and the quest for survival in the harshest of environments. The Martian is a gripping and realistic space adventure that will keep you on the edge of your seat.",
     "facts": {
-      "yearOfBirth": "1929",
-      "yearOfDeath": "2013",
-      "birthPlace": "Bangalore, India",
-      "mainField": "Matemáticas"
+      "genre": "Science Fiction",
+      "pages": "369",
+      "awards": "None"
     },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/indian-woman-writing-math-problems-in-a-blackbard-/6510e19f3db54e14b365b7e8dc5045f6"
-    }
+    "category": "space"
   },
   {
-    "id": "sofia-kovalevskaya",
-    "name": "Sofia Kovalevskaya",
-    "shortDescription": "Matemática y escritora, contribuyó a la teoría de funciones.",
-    "description": "Matemática rusa del siglo XIX, dejó una marca indeleble en la ciencia del siglo XIX al desafiar las barreras de género. Como matemática rusa, superó las restricciones sociales de su época para convertirse en la primera mujer en obtener un doctorado en matemáticas en Europa. Sus contribuciones a la teoría de las ecuaciones diferenciales y la mecánica revolucionaron la disciplina, abriendo nuevas perspectivas en el análisis matemático. Su destacada membresía en la Academia de Ciencias de Suecia marcó un hito en la historia de las mujeres en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/sofia-kovalevskaya.jpg",
+    "name": "Ender's Game",
+    "author": "orson scott card",
+    "year": "1985",
+    "id": "p6q7r8",
+    "shortDescription": "Young genius in space war",
+    "imageUrl": "https://th.bing.com/th/id/OIG.zW6YThNQYGcfqVf4t5sN?pid=ImgGn&w=1024&h=1024&rs=1",
+    "description": "Ender's Game is a science fiction novel that follows the story of Ender Wiggin, a brilliant child who is recruited into a military training program to prepare for an impending alien invasion. As Ender trains for war in space, he faces intense challenges and ethical dilemmas. Orson Scott Card's work explores themes of leadership, empathy, and the consequences of violence. The novel has received critical acclaim for its complex characters and thought-provoking narrative.",
     "facts": {
-      "yearOfBirth": "1850",
-      "yearOfDeath": "1891",
-      "birthPlace": "Moscú, Rusia",
-      "mainField": "Matemáticas"
+      "genre": "Science Fiction",
+      "pages": "324",
+      "awards": "Hugo Award, Nebula Award"
     },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/indian-woman-writing-math-problems-in-a-blackbard-/6510e19f3db54e14b365b7e8dc5045f6"
-    }
+    "category": "space"
   },
   {
-    "id": "yoko-shimomura",
-    "name": "Yoko Shimomura",
-    "shortDescription": "Compositora de música, destacada en la industria de los videojuegos.",
-    "description": "Compositora japonesa, es una figura destacada en la ciencia de la música y el arte sonoro. Aunque no se dedica a la ciencia en el sentido tradicional, su trabajo en la composición musical ha requerido un profundo entendimiento de la teoría musical y la tecnología de audio. Ha contribuido de manera significativa a la industria de los videojuegos, componiendo icónicas bandas sonoras que han enriquecido la experiencia de juego. Su éxito en un campo donde las mujeres estaban subrepresentadas la convierte en un modelo a seguir, incluso en campos no convencionales como la composición musical.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/yoko-shimomura.jpg",
+    "name": "Hyperion",
+    "author": "dan simmons",
+    "year": "1989",
+    "id": "s9t0u1",
+    "shortDescription": "Interstellar pilgrimage tales",
+    "imageUrl": "https://th.bing.com/th/id/OIG.R_qlFFVDojBwthSIstma?pid=ImgGn&w=1024&h=1024&rs=1",
+    "description": "Hyperion is a science fiction masterpiece that tells the story of seven pilgrims journeying through a far-future universe. Each pilgrim shares their unique tale, revealing a piece of the enigmatic and deadly world they traverse. Dan Simmons weaves an intricate narrative that combines elements of mythology, philosophy, and space opera. The novel is a richly layered exploration of the human condition and the mysteries of the universe. Hyperion is a must-read for those seeking an epic and thought-provoking science fiction adventure.",
     "facts": {
-      "yearOfBirth": "1967",
-      "birthPlace": "Hyogo, Japón",
-      "mainField": "Composición Musical, Video Juegos"
+      "genre": "Science Fiction",
+      "pages": "482",
+      "awards": "Hugo Award"
     },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/yoko-shimomura-making-music-for-a-video-game-in-19/6510e40dd1eb45d0906e8c1f4bb601d3"
-    }
+    "category": "space"
   },
   {
-    "id": "maryam-mirzakhani",
-    "name": "Maryam Mirzakhani",
-    "shortDescription": "Matemática, ganadora del Premio Fields.",
-    "description": "Matemática iraní, hizo historia al convertirse en la primera mujer en ganar la Medalla Fields, el premio más prestigioso en matemáticas. Sus investigaciones en la geometría de superficies y la teoría de las superficies de Riemann han tenido un impacto duradero en la matemática pura. A lo largo de su carrera, Mirzakhani inspiró a muchas mujeres a perseguir carreras en ciencia y matemáticas, derribando las barreras de género. Su enfoque innovador y su capacidad para resolver problemas complejos la convierten en un modelo a seguir para la comunidad científica y en un símbolo de la excelencia matemática.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/maryam-mirzakhani.jpg",
+    "name": "The Hunger Games",
+    "author": "suzanne collins",
+    "year": "2008",
+    "id": "v2w3x4",
+    "shortDescription": "Dystopian survival games",
+    "imageUrl": "https://th.bing.com/th/id/OIG.Gt9a8KzUzv_zGighUWi0?pid=ImgGn",
+    "description": "The Hunger Games is set in a dystopian future where children are selected to fight to the death in televised games for the entertainment of the Capitol. Katniss Everdeen volunteers to take her sister's place, sparking a rebellion against the oppressive regime. Suzanne Collins' novel is a gripping and emotionally charged story of survival, sacrifice, and resistance. It explores themes of power, propaganda, and the resilience of the human spirit. The Hunger Games has captivated readers with its intense action and memorable characters.",
     "facts": {
-      "yearOfBirth": "1977",
-      "yearOfDeath": "2017",
-      "birthPlace": "Teherán, Irán",
-      "mainField": "Matemáticas"
+      "genre": "Science Fiction",
+      "pages": "374",
+      "awards": "None"
     },
-    "extraInfo": {
-      "imageSource": "https://chalkdustmagazine.com/features/mathematics-maryam-mirzakhani/"
-    }
+    "category": "dystopian"
   },
   {
-    "id": "adele-goldberg",
-    "name": "Adele Goldberg",
-    "shortDescription": "Informática pionera, co-creadora del lenguaje de programación Smalltalk.",
-    "description": "Informática estadounidense reconocida por su influyente trabajo en la investigación y desarrollo de la programación orientada a objetos. Su contribución más destacada es la creación del lenguaje de programación Smalltalk, que revolucionó la forma en que se desarrollan software y sistemas informáticos. Goldberg ha sido una defensora incansable de la usabilidad y la accesibilidad en la informática, asegurando que las aplicaciones informáticas sean más amigables para los usuarios. Su trabajo ha allanado el camino para una programación más intuitiva y eficiente, y su legado perdura en la industria de la tecnología.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/adele-goldberg.jpg",
+    "name": "Snow Crash",
+    "author": "neal stephenson",
+    "year": "1992",
+    "id": "y5z6a7",
+    "shortDescription": "High-tech cyber thriller",
+    "imageUrl": "https://th.bing.com/th/id/OIG.REc2syjDwwG_WEpVucHQ?pid=ImgGn&w=1024&h=1024&rs=1",
+    "description": "Snow Crash is a high-tech cyber thriller that introduces readers to Hiro Protagonist, a hacker and pizza delivery driver in a chaotic future. Hiro stumbles upon a virtual drug called Snow Crash and becomes embroiled in a conspiracy that threatens the world. Neal Stephenson's novel is a fast-paced, satirical exploration of the intersection between technology, language, and society. With its inventive ideas and action-packed plot, Snow Crash has become a seminal work in the cyberpunk genre.",
     "facts": {
-      "yearOfBirth": "1945",
-      "birthPlace": "Chicago, Estados Unidos",
-      "mainField": "Ciencias de la Computación"
+      "genre": "Science Fiction",
+      "pages": "470",
+      "awards": "None"
     },
-    "extraInfo": {
-      "imageSource": "https://pionerasinformaticas.ujaen.es/en/computer-women-pioneers/adele-goldberg-en"
-    }
+    "category": "cyberpunk"
   },
   {
-    "id": "barbara-liskov",
-    "name": "Barbara Liskov",
-    "shortDescription": "Científica de la computación, pionera en programación orientada a objetos.",
-    "description": "Pionera de la informática, es conocida por su trabajo en la programación y la arquitectura de sistemas distribuidos. Fue la primera mujer en obtener un doctorado en ciencias de la computación en el Instituto de Tecnología de Stanford y desarrolló el lenguaje de programación CLU, que estableció fundamentos para la programación orientada a objetos. Liskov ha dejado una marca indeleble en la industria de la tecnología al liderar avances en sistemas de almacenamiento y seguridad informática. Su enfoque en la fiabilidad y la robustez ha influido en el diseño de sistemas críticos en todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/barbara-liskov.jpg",
+    "name": "Brave New World",
+    "author": "aldous huxley",
+    "year": "1932",
+    "id": "b8n9o0",
+    "shortDescription": "Dystopian society of pleasure",
+    "imageUrl": "https://th.bing.com/th/id/OIG.kxjyTuaZIAW5rlqBXSsP?pid=ImgGn&w=1024&h=1024&rs=1",
+    "description": "Brave New World presents a dystopian society where happiness is mandatory, and conformity is the norm. The story follows Bernard Marx, who questions the cost of this utopian existence. Aldous Huxley's novel is a classic exploration of the dangers of a society that prioritizes pleasure over individuality. It delves into themes of control, technology, and the loss of humanity. Brave New World is a thought-provoking work that continues to resonate with readers, sparking discussions about the trade-offs between comfort and freedom.",
     "facts": {
-      "yearOfBirth": "1939",
-      "birthPlace": "Los Angeles, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
+      "genre": "Science Fiction",
+      "pages": "288",
+      "awards": "None"
     },
-    "extraInfo": {
-      "imageSource": "https://medium.com/a-computer-of-ones-own/barbara-liskov-inventor-of-abstract-data-types-9f8908fdcf86"
-    }
+    "category": "dystopian"
   },
   {
-    "id": "grace-hopper",
-    "name": "Grace Hopper",
-    "shortDescription": "Científica de la computación, creadora del primer compilador.",
-    "description": "Una de las pioneras de la informática, es famosa por su contribución al desarrollo del primer compilador y al lenguaje de programación COBOL. Además, desafió los estereotipos de género en la década de 1940 al unirse a la Marina de los Estados Unidos y convertirse en la primera programadora de la computadora Harvard Mark I. Su legado abarca la creación de conceptos cruciales como la \"depuración de software\" y su influencia en el desarrollo de la informática moderna, estableciendo estándares para la programación de alto nivel y la innovación tecnológica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/grace-hopper.jpg",
+    "name": "I, Robot",
+    "author": "isaac asimov",
+    "year": "1950",
+    "id": "c1d2e3",
+    "shortDescription": "Robots and ethical dilemmas",
+    "imageUrl": "https://th.bing.com/th/id/OIG.XmOxh_uKVHN_egWFk2s3?pid=ImgGn",
+    "description": "I, Robot is a collection of short stories that explore the complex relationship between humans and robots. Asimov introduces and tests his Three Laws of Robotics, a set of ethical guidelines for artificial intelligence. The stories span various scenarios, from robots aiding humanity to the unintended consequences of their actions. Asimov's work has had a profound influence on the portrayal of robots in science fiction and is a must-read for those interested in the ethical and existential questions surrounding artificial intelligence.",
     "facts": {
-      "yearOfBirth": "1906",
-      "yearOfDeath": "1992",
-      "birthPlace": "Nueva York, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
+      "genre": "Science Fiction",
+      "pages": "249",
+      "awards": "None"
     },
-    "extraInfo": {
-      "imageSource": "https://photos.com/featured/grace-hopper-with-early-computer-bettmann.html"
-    }
+    "category": "robotics"
   },
   {
-    "id": "margaret-hamilton",
-    "name": "Margaret Hamilton",
-    "shortDescription": "Científica de la computación, lideró desarrollo de software para Apollo 11.",
-    "description": "Destacada científica de la computación que desempeñó un papel fundamental en el programa Apollo de la NASA. Fue directora de la División de Ingeniería de Software en el Laboratorio de Instrumentación del MIT, donde desarrolló el concepto de \"ingeniería de software\". Su liderazgo en el desarrollo del software de vuelo para las misiones Apollo fue fundamental para el éxito de la llegada del hombre a la Luna. Hamilton es un ejemplo de cómo la tecnología y la ciencia pueden alcanzar logros extraordinarios cuando se combinan con un enfoque innovador y una visión audaz.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/margaret-hamilton.jpg",
+    "name": "A Canticle for Leibowitz",
+    "author": "walter m. miller jr.",
+    "year": "1959",
+    "id": "f3g4h5",
+    "shortDescription": "Post-apocalyptic preservation",
+    "imageUrl": "https://th.bing.com/th/id/OIG.bUn87h0sftoVzkj8pejJ?pid=ImgGn&w=1024&h=1024&rs=1",
+    "description": "A Canticle for Leibowitz is set in a post-apocalyptic world where the monks of the Order of Leibowitz dedicate themselves to preserving knowledge and technology from the past. The novel explores themes of cyclical history, the persistence of human knowledge, and the role of religion in society. Walter M. Miller Jr.'s work is a thought-provoking and philosophical exploration of the consequences of war and the value of human achievement. It remains a classic in the post-apocalyptic subgenre of science fiction.",
     "facts": {
-      "yearOfBirth": "1936",
-      "birthPlace": "Paoli, Indiana, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
+      "genre": "Science Fiction",
+      "pages": "334",
+      "awards": "Hugo Award"
     },
-    "extraInfo": {
-      "imageSource": "https://odetta.ai/blogs/margaret-hamilton-the-first-software-engineer"
-    }
+    "category": "post-apocalyptic"
   },
   {
-    "id": "radia-perlman",
-    "name": "Radia Perlman",
-    "shortDescription": "Ingeniera de redes, inventora del algoritmo Spanning Tree.",
-    "description": "Científica de la computación estadounidense, ha dejado una marca indeleble en el mundo de las redes informáticas y la seguridad. Conocida como \"la madre de Internet\", su invención del algoritmo Spanning Tree Protocol (STP) revolucionó la conectividad de redes y sentó las bases para la infraestructura de Internet moderna. A pesar de operar en un campo dominado por hombres, Perlman ha demostrado que las mujeres pueden liderar avances tecnológicos vitales. Su compromiso con la resiliencia de las redes y la ciberseguridad ha influido en la estabilidad y confiabilidad de la comunicación en línea.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/radia-perlman.jpg",
+    "name": "Altered Carbon",
+    "author": "richard k. morgan",
+    "year": "2002",
+    "id": "i6j7k8",
+    "shortDescription": "Digital immortality and noir",
+    "imageUrl": "https://th.bing.com/th/id/OIG.vx6_1cDediD2MUnuluDp?pid=ImgGn",
+    "description": "Altered Carbon is set in a future where consciousness can be transferred between bodies, granting a form of digital immortality. Takeshi Kovacs, a former soldier, is hired to investigate a wealthy man's murder. The novel combines elements of cyberpunk and noir, offering a gritty and high-tech detective story. Richard K. Morgan's work explores themes of identity, power, and the implications of technology on society. With its intricate world-building and thrilling narrative, Altered Carbon is a standout in the cyberpunk genre.",
     "facts": {
-      "yearOfBirth": "1951",
-      "birthPlace": "Portsmouth, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
+      "genre": "Science Fiction",
+      "pages": "526",
+      "awards": "Philip K. Dick Award"
     },
-    "extraInfo": {
-      "imageSource": "https://hackaday.com/2018/05/29/spanning-the-tree-dr-radia-perlman-untangling-networks/"
-    }
+    "category": "cyberpunk"
   },
   {
-    "id": "shafi-goldwasser",
-    "name": "Shafi Goldwasser",
-    "shortDescription": "Científica de la computación, ganadora del Premio Turing.",
-    "description": "Es una destacada criptógrafa y científica de la computación que ha contribuido significativamente a la teoría de la computación y la seguridad de la información. Su trabajo en criptografía de probabilidad y complejidad computacional ha sentado las bases para la seguridad en línea y la privacidad de datos en un mundo cada vez más digitalizado. Goldwasser es un ejemplo de cómo la ciencia de la computación puede abordar desafíos contemporáneos y proteger la información en la era de la información.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/shafi-goldwasser.jpg",
+    "name": "The Left Hand of Darkness",
+    "author": "ursula k. le guin",
+    "year": "1969",
+    "id": "l9m0n1",
+    "shortDescription": "Ambassador on an androgynous world",
+    "imageUrl": "https://th.bing.com/th/id/OIG.SMqj0WDUMHIMP9Br7M5W?pid=ImgGn&w=1024&h=1024&rs=1",
+    "description": "The Left Hand of Darkness follows the story of Genly Ai, an ambassador from Earth who navigates the complex androgynous society of the planet Gethen. Ursula K. Le Guin's novel is a groundbreaking exploration of gender and identity, set against the backdrop of an alien world. The narrative delves into themes of cultural understanding, friendship, and the nature of humanity. With its lyrical prose and thought-provoking concepts, The Left Hand of Darkness has left an enduring mark on the genre of science fiction.",
     "facts": {
-      "yearOfBirth": "1958",
-      "birthPlace": "Nueva York, Estados Unidos",
-      "mainField": "Ciencia de la Computación"
+      "genre": "Science Fiction",
+      "pages": "304",
+      "awards": "Hugo and Nebula awards"
     },
-    "extraInfo": {
-      "imageSource": "https://www.jahresbericht2019.unibe.ch/successes_2019/einstein_lectures/index_eng.html"
-    }
+    "category": "space"
   },
   {
-    "id": "chien-shiung-wu",
-    "name": "Chien-Shiung Wu",
-    "shortDescription": "Física experimental, contribuyó a la física nuclear.",
-    "description": "Física experimental de origen chino, desafiando los prejuicios de género y nacionalidad, realizó experimentos fundamentales en física de partículas y contribuyó significativamente a la comprensión de la desintegración beta. Su famoso experimento \"Wu\" refutó la paridad en la física de partículas, lo que cambió la forma en que los científicos comprenden las fuerzas fundamentales de la naturaleza. Wu demostró que el talento y la perseverancia pueden superar cualquier barrera, y su legado sigue siendo un faro de inspiración para científicas en todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/chien-shiung-wu.jpg",
+    "name": "Alas, Babylon",
+    "author": "Pat Frank",
+    "year": "1959",
+    "id": "o2p3q4",
+    "shortDescription": "Post-nuclear survival",
+    "imageUrl": "https://th.bing.com/th/id/OIG.MY6YWF5LhZgNIvQlVzVh?pid=ImgGn&w=1024&h=1024&rs=1",
+    "description": "After a devastating nuclear war, the resilient inhabitants of a small Florida town are faced with the daunting task of survival. Pat Frank's 'Alas, Babylon' tells a gripping tale of community bonds forged in the aftermath of catastrophe. As the world crumbles, this post-apocalyptic story explores the strength of the human spirit and the desperate struggle to rebuild amidst the ruins of civilization.",
     "facts": {
-      "yearOfBirth": "1912",
-      "yearOfDeath": "1997",
-      "birthPlace": "Liuhe, Taicang, China",
-      "mainField": "Física"
+      "genre": "Science Fiction",
+      "pages": "323",
+      "awards": "None"
     },
-    "extraInfo": {
-      "imageSource": "https://www.thoughtco.com/chien-shiung-wu-biography-3530366"
-    }
+    "category": "post-apocalyptic"
   },
   {
-    "id": "hedy-lamarr",
-    "name": "Hedy Lamarr",
-    "shortDescription": "Actriz e inventora, contribuyó al desarrollo de la tecnología de espectro ensanchado.",
-    "description": "Actriz austroamericana y científica, fue una mente brillante en la intersección de la tecnología y el entretenimiento. Junto con el compositor George Antheil, inventó un sistema de comunicación secreta durante la Segunda Guerra Mundial que sentó las bases para la tecnología de espectro ensanchado y la comunicación inalámbrica moderna. Lamarr demostró que las mujeres pueden destacar tanto en el cine como en la ciencia, y su legado como inventora ha sido fundamental para el desarrollo de la tecnología de comunicación inalámbrica que usamos en la actualidad.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/hedy-lamarr.jpg",
+    "name": "The War of the Worlds",
+    "author": "H.G. Wells",
+    "year": "1898",
+    "id": "r5s6t7",
+    "shortDescription": "Martian invasion",
+    "imageUrl": "https://th.bing.com/th/id/OIG.3h4P.YLX7ZFGK5wTsVXf?pid=ImgGn&w=1024&h=1024&rs=1",
+    "description": "H.G. Wells' timeless classic, 'The War of the Worlds,' chronicles the harrowing tale of an unnamed protagonist as Earth is invaded by Martians. Surviving the catastrophic events becomes a relentless struggle, and this pioneering work of alien invasion fiction offers a gripping account of humanity's fight for survival in the face of extraterrestrial peril.",
     "facts": {
-      "yearOfBirth": "1914",
-      "yearOfDeath": "2000",
-      "birthPlace": "Viena, Austria",
-      "mainField": "Actuación, Física"
+      "genre": "Science Fiction",
+      "pages": "196",
+      "awards": "None"
     },
-    "extraInfo": {
-      "imageSource": "https://www.sparkfun.com/news/6147"
-    }
+    "category": "alien invasion"
   },
   {
-    "id": "maria-goeppert-mayer",
-    "name": "Maria Goeppert Mayer",
-    "shortDescription": "Física teórica, ganadora del Premio Nobel de Física.",
-    "description": "Física teórica alemana-estadounidense, dejó una profunda huella en la física nuclear y la mecánica cuántica. Fue la segunda mujer en recibir el Premio Nobel de Física y su trabajo pionero en la estructura de capas nucleares revolucionó nuestra comprensión de los núcleos atómicos. A pesar de las barreras de género en la academia, su dedicación y talento la llevaron a contribuir significativamente a la teoría nuclear, abriendo el camino para futuras investigadoras en un campo dominado por hombres. Maria Goeppert Mayer es un ejemplo inspirador de excelencia científica y perseverancia en la búsqueda del conocimiento.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/maria-goeppert-mayer.jpg",
+    "name": "The Expanse: Leviathan Wakes",
+    "author": "James S.A. Corey",
+    "year": "2011",
+    "id": "u8v9w0",
+    "shortDescription": "Space mystery and political intrigue",
+    "imageUrl": "https://th.bing.com/th/id/OIG.fipnjlVQQYoZrV93S2Zh?pid=ImgGn&w=1024&h=1024&rs=1",
+    "description": "James S.A. Corey's 'Leviathan Wakes' is a thrilling space opera that sets the stage for a vast, interstellar conspiracy. With detective and officer protagonists, the story unravels a plot that threatens the stability of the entire solar system. This epic space adventure combines mystery, political intrigue, and the wonders of the cosmos.",
     "facts": {
-      "yearOfBirth": "1906",
-      "yearOfDeath": "1972",
-      "birthPlace": "Kattowitz, Alemania",
-      "mainField": "Física"
+      "genre": "Science Fiction",
+      "pages": "561",
+      "awards": "None"
     },
-    "extraInfo": {
-      "imageSource": "https://www.wsemexhibit.org/maria-goeppert-mayer.html"
-    }
+    "category": "space"
   },
   {
-    "id": "lise-meitner",
-    "name": "Lise Meitner",
-    "shortDescription": "Física nuclear, contribuyó a la teoría de la fisión nuclear.",
-    "description": "Física austriaca-sueca, dejó un legado imborrable en la física nuclear y la radioquímica. A pesar de enfrentar obstáculos de género en una era dominada por hombres, colaboró con Otto Hahn en el descubrimiento de la fisión nuclear, un avance revolucionario. Aunque no compartió el Premio Nobel por este logro, su contribución fue crucial para comprender la energía nuclear y la física de partículas. Su determinación y pasión por la ciencia han inspirado a generaciones de científicas. Lise Meitner es un símbolo perdurable de la perseverancia femenina y el impacto duradero que las mujeres pueden tener en la ciencia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/lise-meitner.jpg",
+    "name": "The Leftovers",
+    "author": "Tom Perrotta",
+    "year": "2011",
+    "id": "v1w2x3",
+    "shortDescription": "Mysterious mass disappearance",
+    "imageUrl": "https://th.bing.com/th/id/OIG.yEPrrA.pYfRXUPUUmWh1?pid=ImgGn&w=1024&h=1024&rs=1",
+    "description": "Tom Perrotta's 'The Leftovers' explores the aftermath of a global event where a portion of the population mysteriously disappears. Society grapples with the unfathomable loss and uncertainty that follows. This thought-provoking work of science fiction delves into the human condition, the search for meaning, and the profound impact of inexplicable occurrences.",
     "facts": {
-      "yearOfBirth": "1878",
-      "yearOfDeath": "1968",
-      "birthPlace": "Viena, Austria",
-      "mainField": "Física"
+      "genre": "Science Fiction",
+      "pages": "355",
+      "awards": "None"
     },
-    "extraInfo": {
-      "imageSource": "https://www.bing.com/images/create/lise-meitner-in-nuclear-physics-lab-in-19502c-retro/651196e6bbcb4009950e9955c2199760"
-    }
+    "category": "mystery"
   },
   {
-    "id": "sau-lan-wu",
-    "name": "Sau Lan Wu",
-    "shortDescription": "Física de partículas, contribuyó a experimentos clave en física de alta energía.",
-    "description": "Física experimental sinoamericana, ha sido una fuerza motriz en la física de partículas. Destacó en experimentos en el CERN y lideró investigaciones cruciales, como el descubrimiento del quark c, que expandieron nuestro entendimiento de la estructura fundamental de la materia. Wu superó desafíos en una disciplina dominada por hombres y ha sido un faro de inspiración para científicas de todo el mundo. Sau Lan Wu es un ejemplo de excelencia científica y de cómo las mujeres pueden dejar huella en la investigación de vanguardia.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/sau-lan-wu.jpg",
+    "name": "Fahrenheit 451",
+    "author": "Ray Bradbury",
+    "year": "1953",
+    "id": "k5l6m7",
+    "shortDescription": "Burning books in a dystopia",
+    "imageUrl": "https://th.bing.com/th/id/OIG.Ed3ht7pC_QmvmL2WXYhh?pid=ImgGn&w=1024&h=1024&rs=1",
+    "description": "In Ray Bradbury's 'Fahrenheit 451,' the future is a bleak world where books are banned and burned by firemen like Guy Montag. This cautionary tale paints a dystopian picture of a society without intellectual freedom. Montag's journey to challenge the status quo is a powerful and thought-provoking exploration of censorship and the value of knowledge.",
     "facts": {
-      "yearOfBirth": "1940",
-      "birthPlace": "Hong Kong, China",
-      "mainField": "Física de Partículas"
+      "genre": "Science Fiction",
+      "pages": "179",
+      "awards": "None"
     },
-    "extraInfo": {
-      "imageSource": "https://repository.aip.org/islandora/object/nbla%3A315195"
-    }
+    "category": "dystopian"
   },
   {
-    "id": "jocelyn-bell-burnell",
-    "name": "Jocelyn Bell Burnell",
-    "shortDescription": "Astrónoma y astrofísica, co-descubridora de los púlsares.",
-    "description": "Astrofísica británica, es una figura extraordinaria en la ciencia. Durante su doctorado, hizo un descubrimiento revolucionario al detectar los primeros púlsares, estrellas de neutrones altamente magnetizadas que emiten pulsos regulares de radiación. A pesar de que su asesor recibió el Premio Nobel por este descubrimiento, Bell Burnell se ha convertido en un símbolo de perseverancia y contribución de las mujeres a la astronomía. Su carrera distinguida y su activismo en favor de la diversidad de género en la ciencia han inspirado a generaciones futuras de científicas. Jocelyn Bell Burnell es un ejemplo de valentía y excelencia científica.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/jocelyn-bell-burnell.jpg",
+    "name": "The Hitchhiker's Guide to the Galaxy",
+    "author": "Douglas Adams",
+    "year": "1979",
+    "id": "s5t6u7",
+    "shortDescription": "Cosmic comedy and absurdity",
+    "imageUrl": "https://th.bing.com/th/id/OIG.tqir7udhSMIWLaKlMlHE?pid=ImgGn&w=1024&h=1024&rs=1",
+    "description": "Join Arthur Dent, an unwitting Earthling, on a hilariously absurd intergalactic journey alongside his alien friend Ford Prefect in Douglas Adams' 'The Hitchhiker's Guide to the Galaxy.' This comedic space odyssey is a lighthearted exploration of the cosmos, filled with witty humor and cosmic curiosities that will leave you in stitches.",
     "facts": {
-      "yearOfBirth": "1943",
-      "birthPlace": "Belfast, Reino Unido",
-      "mainField": "Astronomía, Astrofísica"
+      "genre": "Science Fiction",
+      "pages": "193",
+      "awards": "None"
     },
-    "extraInfo": {
-      "imageSource": "https://womeninscienceweadmire.icfo.eu/wiswa-2/jocelyn-bell/"
-    }
+    "category": "space"
   },
   {
-    "id": "dorothy-crowfoot-hodgkin",
-    "name": "Dorothy Crowfoot Hodgkin",
-    "shortDescription": "Química, ganadora del Premio Nobel de Química.",
-    "description": "Química británica, es una figura icónica en la ciencia que superó las barreras de género de su época. Su trabajo revolucionario en la cristalografía de rayos X permitió determinar la estructura de importantes biomoléculas, como la penicilina, la vitamina B12 y la insulina. Fue galardonada con el Premio Nobel de Química en 1964, siendo la tercera mujer en recibir este prestigioso reconocimiento. Hodgkin no solo fue una científica excepcional, sino también una defensora de la igualdad de género en la ciencia, allanando el camino para futuras generaciones de científicas y dejando un legado duradero en la investigación y la equidad.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/dorothy-crowfoot-hodgkin.jpg",
+    "name": "A Fire Upon the Deep",
+    "author": "Vernor Vinge",
+    "year": "1992",
+    "id": "a5b6c7",
+    "shortDescription": "Galactic power and artificial intelligence",
+    "imageUrl": "https://th.bing.com/th/id/OIG.qXLRLUft4tsMl7Qmteh7?pid=ImgGn&w=1024&h=1024&rs=1",
+    "description": "Vernor Vinge's 'A Fire Upon the Deep' unfolds in a galaxy where technology is influenced by the proximity to the galactic core, resulting in two intertwining storylines. One follows a human family, while the other delves into the realm of a godlike AI entity. This grand space opera explores themes of power, intelligence, and the vastness of the cosmos.",
     "facts": {
-      "yearOfBirth": "1910",
-      "yearOfDeath": "1994",
-      "birthPlace": "El Cairo, Egipto / Shipston-on-Stour, Reino Unido",
-      "mainField": "Química"
+      "genre": "Science Fiction",
+      "pages": "613",
+      "awards": "Hugo Award"
     },
-    "extraInfo": {
-      "imageSource": "https://www.some.ox.ac.uk/news/jan-royall-why-we-must-champion-dorothy-hodgkin-for-the-50-note/"
-    }
+    "category": "space"
   },
   {
-    "id": "marie-curie",
-    "name": "Marie Curie",
-    "shortDescription": "Física y química, ganadora de dos Premios Nobel.",
-    "description": "física y química de origen polaco y nacionalizada francesa, es una de las figuras más icónicas en la historia de la ciencia. Ganadora de dos premios Nobel (Física en 1903 y Química en 1911), Curie realizó investigaciones fundamentales sobre la radiactividad y el descubrimiento de los elementos radio y polonio. Su dedicación y valentía en la investigación científica, a pesar de los desafíos de la discriminación de género y los riesgos de la radiación, la convierten en un modelo a seguir para científicas de todo el mundo.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marie-curie.jpg",
+    "name": "Solaris",
+    "author": "Stanisław Lem",
+    "year": "1961",
+    "id": "b1c2d3",
+    "shortDescription": "Psychological sci-fi on a strange planet",
+    "imageUrl": "https://th.bing.com/th/id/OIG.XfYm7Hu_EomobgDvj5dd?pid=ImgGn&w=1024&h=1024&rs=1",
+    "description": "Stanisław Lem's 'Solaris' is a profound psychological science fiction novel set on a mysterious planet with a vast, ocean-like entity. Psychologist Kris Kelvin arrives at a space station orbiting Solaris, aiming to study the enigmatic phenomenon. As he delves into his research, he finds himself entangled in a complex web of past regrets and consciousness, leading to a mind-bending exploration of the human psyche.",
     "facts": {
-      "yearOfBirth": "1867",
-      "yearOfDeath": "1934",
-      "birthPlace": "Varsovia, Polonia",
-      "mainField": "Física y Química"
+      "genre": "Science Fiction",
+      "pages": "204",
+      "awards": "None"
     },
-    "extraInfo": {
-      "imageSource": "https://www.historyextra.com/period/first-world-war/life-of-the-week-marie-curie/"
-    }
+    "category": "space"
   },
   {
-    "id": "marjory-stephenson",
-    "name": "Marjory Stephenson",
-    "shortDescription": "Microbióloga y bioquímica, investigó en enzimología.",
-    "description": "Bioquímica británica, brilló como científica en una época en la que las mujeres enfrentaban obstáculos muy significativos en la investigación científica. Su trabajo pionero en microbiología, enzimología y bioquímica contribuyó al entendimiento de procesos fundamentales en la vida. Fue una de las primeras mujeres en ser elegida miembro de la Royal Society, un reconocimiento a su destacada contribución a la ciencia. Además, fue una mentora y defensora de las mujeres en la ciencia, inspirando y allanando el camino para futuras generaciones.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/marjory-stephenson.jpg",
+    "name": "The Time Machine",
+    "author": "H.G. Wells",
+    "year": "1895",
+    "id": "e4f5g6",
+    "shortDescription": "Time travel adventure",
+    "imageUrl": "https://th.bing.com/th/id/OIG.SIWf1b21qDuALa__Preo?pid=ImgGn&w=1024&h=1024&rs=1",
+    "description": "H.G. Wells' 'The Time Machine' introduces a brilliant scientist who invents a remarkable device enabling time travel. His journey takes him to the distant future, where he encounters strange species and witnesses the evolution of humanity. This classic work of science fiction is a thrilling adventure that explores the possibilities and consequences of time travel.",
     "facts": {
-      "yearOfBirth": "1885",
-      "yearOfDeath": "1948",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Química, Microbiología, Bioquímica"
+      "genre": "Science Fiction",
+      "pages": "118",
+      "awards": "None"
     },
-    "extraInfo": {
-      "imageSource": "https://microbiologysociety.org/grants-prizes/all-prizes-and-competitions-/prize-lectures/marjory-stephenson-prize-lecture/marjory-stephenson-a-short-history.html"
-    }
+    "category": "time travel"
   },
   {
-    "id": "rosalind-franklin",
-    "name": "Rosalind Franklin",
-    "shortDescription": "Química y cristalógrafa, contribuyó a la comprensión de la estructura del ADN.",
-    "description": "Química y cristalógrafa británica, destacó en un campo dominado por hombres y su contribución a la ciencia es innegable. Sus investigaciones pioneras en la cristalografía de rayos X fueron fundamentales para revelar la estructura del ADN en forma de doble hélice, un hito crucial en la biología molecular. A pesar de que su trabajo inicial fue subestimado, su determinación y habilidad científica allanaron el camino para futuros avances en genética y biología. Franklin es un ejemplo inspirador de cómo las mujeres pueden sobresalir en la ciencia, dejando un legado duradero en la investigación y la igualdad de género.",
-    "imageUrl": "https://laboratoria-dataverse-talks.netlify.app/public/rosalind-franklin.jpg",
+    "name": "20,000 Leagues Under the Sea",
+    "author": "Jules Verne",
+    "year": "1870",
+    "id": "h7i8j9",
+    "shortDescription": "Submarine adventure",
+    "imageUrl": "https://th.bing.com/th/id/OIG.CFtal6lDSnr7r6AjTO6n?pid=ImgGn&w=1024&h=1024&rs=1",
+    "description": "Jules Verne's '20,000 Leagues Under the Sea' is a timeless adventure that follows Captain Nemo as he commands the submarine Nautilus on undersea exploration. This classic novel delves into the mysteries of the ocean depths, showcasing the wonders and dangers of the underwater world. Join the crew of the Nautilus on an unforgettable journey beneath the waves.",
     "facts": {
-      "yearOfBirth": "1920",
-      "yearOfDeath": "1958",
-      "birthPlace": "Londres, Reino Unido",
-      "mainField": "Química, Cristalografía"
+      "genre": "Science Fiction",
+      "pages": "344",
+      "awards": "None"
     },
-    "extraInfo": {
-      "imageSource": "https://www.esa.int/ESA_Multimedia/Images/2020/07/Artistic_illustration_of_Rosalind_Franklin"
-    }
+    "category": "adventure"
   }
-];
+]
